@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="061bd4dac369fe109bfbb90ed401316c" extends="sys_import_set_row" label="incident_staging" max_length="40" name="x_58872_needit_incident_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Caller" label="Caller" max_length="40" name="u_caller" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>
